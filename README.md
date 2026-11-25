@@ -41,8 +41,7 @@ AI-powered personal data compliance audit for Russian software projects.
 
 - PDF-гайд по проектированию БД для начинающих.
 - PDF-гайд продвинутого уровня.
-- Markdown-инструкция для ИИ-агента по проектированию БД.
-- Markdown-инструкция для ИИ-агента по аудиту существующей БД.
+- Markdown-инструкция для ИИ-агента по проектированию БД и аудиту существующей БД.
 
 [Приобрести полный комплект на Lava.top](https://app.lava.top/products/69cfcd4e-cf33-4d7d-baf1-c677ae80be1e)
 
